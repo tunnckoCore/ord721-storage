@@ -1,0 +1,10 @@
+{
+  "id": "20",
+  "traits": {
+    "background": "pink",
+    "cat": "brown",
+    "eyes": "green",
+    "cursor": "yarn"
+  },
+  "inscriber": null
+}

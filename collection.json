@@ -1,0 +1,14 @@
+{
+  "protocol": {
+    "name": "ORD721",
+    "version": "1.0",
+    "type": "collection"
+  },
+  "metadata": {
+    "name": "0xNeko",
+    "symbol": "neko",
+    "description": "Neko Cats teleporting from 1989 to 2023. Inspired by Neko Cat application 1989, the 0xNeko is an experimental, interactive, CC-0 licensed and open-source NFT collection (Ordinals) hosted on the Bitcoin blockchain. Initially started as Ethereum collection by @elonsdev in 2022, and optimized for Bitcoin Ordinals by wgw.eth in 2023.",
+    "maxSupply": 100,
+    "maxBlockHeight": 1000000
+  }
+}
