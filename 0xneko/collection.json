@@ -1,0 +1,24 @@
+{
+  "protocol": {
+    "name": "ORD721",
+    "version": "1.0",
+    "type": "collection"
+  },
+  "collection": {
+    "name": "0xNeko Ordinals",
+    "symbol": "neko",
+    "description": "Inspired by Neko Cat application from 1989, the 0xNeko is an innovative, interactive, and Open Source ordinals collection of 100 cats, hosted on the Bitcoin blockchain. Free mint. CC-0. The very first ORD-721 collection.",
+    "creatorAddress": "bc1pk42g9szvyl7xxdpdszn5ql6ce2mzc0wmy05y97qfmu7hs8uftnns5tc37k",
+    "website": "https://0xneko.ord721.art",
+    "twitter": "https://twitter.com/wgw_eth",
+    "discord": "https://discord.gg/W4YRMMdh",
+    "maxSupply": 100,
+    "maxPerAddress": 2,
+    "maxBlockHeight": 950666,
+    "funds": 0,
+    "royalty": 0,
+    "creatorSignature": "AUFliukjH+82JQ58KAvvO4S6LomIruqiqY0WEMZQfBr5G1F2ka6RxKGcSsSjYhA4VB4qSpjpQMT027pZ/O5aThraAQ=="
+  },
+  "digest": "69a90692f9b6f820920415309015b985b8f121e69cf65a9cc61d8068ad9110d3",
+  "inscriptionId": "bfeb5be851e052c3d3aee642852302d926d10ce5c578df95e02f3de265fabe22i0"
+}
