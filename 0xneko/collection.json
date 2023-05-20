@@ -20,5 +20,9 @@
     "creatorSignature": "AUFliukjH+82JQ58KAvvO4S6LomIruqiqY0WEMZQfBr5G1F2ka6RxKGcSsSjYhA4VB4qSpjpQMT027pZ/O5aThraAQ=="
   },
   "digest": "69a90692f9b6f820920415309015b985b8f121e69cf65a9cc61d8068ad9110d3",
-  "inscriptionId": "bfeb5be851e052c3d3aee642852302d926d10ce5c578df95e02f3de265fabe22i0"
+  "meta": {
+    "commitTx": "b22f5a68ce6093f852553eae50811a3aa9ff0e1cc76dcdb5ec51d722e6f60246",
+    "revealTx": "bfeb5be851e052c3d3aee642852302d926d10ce5c578df95e02f3de265fabe22",
+    "inscriptionId": "bfeb5be851e052c3d3aee642852302d926d10ce5c578df95e02f3de265fabe22i0"
+  }
 }
